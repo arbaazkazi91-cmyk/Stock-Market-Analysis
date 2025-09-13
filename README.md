@@ -25,7 +25,7 @@ This project analyzes stock performance using key metrics such as daily return p
 - 52 Week High & Low Stock price
 
 # Process:
-- Data Gathering & Cleaning: Gather Stock Market dataset and clean it by handling missing values, standardizing names, and formatting columns.
-- Define Key Metrics (KPIs): Focus on insights like trade value, average stocks volume, daily return rate, volatality etc.
+- Data Gathering & Cleaning - Gather Stock Market dataset and clean it by handling missing values, standardizing names, and formatting columns.
+- Define Key Metrics (KPIs) - Focus on insights like trade value, average stocks volume, daily return rate, volatality etc.
 - Dashboard Design – Use charts/maps/tables (e.g., Trade value, Average Daily return of stocks, KPI cards for Max Opening Price, Total orders etc.).
 - Interactivity & Filters – Add slicers for company name to let users drill down and explore restaurant performance easily.
